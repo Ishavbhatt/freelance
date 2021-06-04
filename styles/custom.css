@@ -1,0 +1,73 @@
+.hero { 
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    background: url("/images/rsz_freelancing.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    height: 100vh;
+    color: #ffffff;
+    position: relative;
+  }
+  .text-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .hero-btn {
+    display: inline-block;
+    background: transparent;
+    color: #eee;
+    font-size: 1.5rem;
+    padding: 2px 20px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 2px solid #F9454A;
+    transition: all 0.3s ease;
+  }
+
+  .shrink {
+    display: inline-block;
+    transition-duration: 0.5s;
+    transition-property: transform;
+    -webkit-tap-highlight-color: transparent;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px transparent;
+  }
+  .shrink:hover {
+    transform: scale(0.9);
+  }
+
+  .right-arrrow {
+    display: inline;
+    font-size: 30px;
+  }
+  .more-btn:hover ~ .right-arrrow{
+    margin-right: 10rem;
+    cursor: pointer;
+  }
+  .testimonial-div {
+    display: flex;
+    padding: 20px 0;
+    justify-content: center;
+    justify-self: center;
+    background: url("/images/testimonial.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    color: #ffffff;
+    position: relative;
+  }
+  .myCarousel {
+    margin-top: -6%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 6%;
+    padding-bottom: 8%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
