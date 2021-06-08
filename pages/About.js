@@ -4,8 +4,59 @@ import Link from "next/link";
 
 function About() {
   return (
-    <div>
+    <div className="pt-20">
       <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+      <h1>About</h1>
+
     </div>
 
   );

@@ -10,7 +10,7 @@ module.exports = {
     // 3rd #55EBA6
     extend: {
       colors: {
-        'custom-crimson':'#F9454A',
+        'custom-crimson':'#FF3A4C',
         'dark-crimson': '#47ccd1',
         'custom-coolgrey': '#303030',
         'custom-grey': '#F3F4F6',

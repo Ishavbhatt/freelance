@@ -29,6 +29,8 @@
     transition: all 0.3s ease;
   }
 
+
+
   .shrink {
     display: inline-block;
     transition-duration: 0.5s;
@@ -40,6 +42,17 @@
   .shrink:hover {
     transform: scale(0.9);
   }
+
+.nav-links {
+  color: crimson;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 25px;
+  transition: color 0.3s ease;
+}
+.scroll-nav-links {
+  color: #eee;
+}
 
   .right-arrrow {
     display: inline;
